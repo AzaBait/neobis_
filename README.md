@@ -22,5 +22,4 @@ public class Greeting() {
 </pre>
 
 ### author - Akmatov Edil
-
 ### date - The date of creation 2023-10-16 16:11:00
