@@ -21,5 +21,13 @@ public class Greeting() {
 }
 </pre>
 
+<PRE><CODE CLASS=Java>
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
+</CODE></PRE>
+
 ### author - Akmatov Edil
 ### date - The date of creation 2023-10-16 16:11:00
