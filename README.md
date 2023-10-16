@@ -1,11 +1,11 @@
 # neobis_
 
-#Implementation of Neobis tasks
+# Implementation of Neobis tasks
 
 ![ST-java1_1x (3)_3](https://github.com/Akmatovedil/neobis_/assets/106029627/d130fba6-1f62-430b-9035-4ec30cfa3c69)
 
 
-##Study plan:
+## Study plan:
 
 Week1
 
@@ -21,5 +21,6 @@ public class Greeting() {
 }
 </pre>
 
-author - Akmatov Edil
-date - The date of creation 2023-10-16 16:11:00
+### author - Akmatov Edil
+
+### date - The date of creation 2023-10-16 16:11:00
