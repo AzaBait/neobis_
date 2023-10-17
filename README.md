@@ -13,14 +13,13 @@ solved ps
 
 learned using git command line
 
-<PRE><CODE CLASS=Java>
+'''java
 public class Greeting() {
     public static void main(String[] args) {
         System.out.println("Heeey, welcome to my repository!");
     }
 }
-</CODE></PRE>
-
+'''
 
 ### author - Akmatov Edil
 ### date - The date of creation 2023-10-16 16:11:00
