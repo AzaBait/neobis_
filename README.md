@@ -9,9 +9,9 @@
 
 Week1
 
-solved ps
+⋅⋅*solved ps
 
-learned using git command line
+⋅⋅*learned using git command line
 
 ```java
 public class Greeting() {
@@ -21,5 +21,5 @@ public class Greeting() {
 }
 ```
 
-### author - Akmatov Edil
-### date - The date of creation 2023-10-16 16:11:00
+⋅⋅* author - Akmatov Edil
+⋅⋅* date - The date of creation 2023-10-16 16:11:00
